@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 db_config = {
     'user': 'root',      
-    'password': '1234',  
+    'password': 'password',  
     'host': 'localhost',
     'database': 'transit_system'
 }
